@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Education"
+    url: /Education/
+
+  - title: "Work Experience"
+    url: /Work Experience/    
+
+  - title: "Projects"
+    url: /Projects/    
+    
+  - title: "CV"
+    url: /cv/
+    
