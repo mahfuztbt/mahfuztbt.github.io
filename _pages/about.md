@@ -1,1 +1,10 @@
-Hello I am mahfuz doing masters degree at xi'an jiaotong university
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Computer Science student at Xi'an Jiaotong University.
