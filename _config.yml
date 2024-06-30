@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Mahfuz"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "rony"
 description              : &Computer Science student"
 url                      : https://mahfuztbt.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -33,7 +33,7 @@ author:
  
   # Social media
 
-  facebook         : # mahfuztbt
+  facebook         : 'mahfuztbt'
   
   instagram        : # mahfuztbt
  
