@@ -19,8 +19,8 @@ redirect_from:
 - Chinese Government Scholarship (university) 2023-2025.
 - The Second International student Essay writing competition 2023, 3rd place.
 
-**Yunnan University, CHINA**  *BE in Software Engineering at School of Software.*  
-**Sept 2018 - June 2022**  
+
+**Yunnan University, CHINA**  *BE in Software Engineering at School of Software.*  **Sept 2018 - June 2022**  
 **CGPA:** 3.44 with 89 Average  
 **Relevant Coursework:** Software Engineering, AI and ML, Python programming language, Data structure and Algorithm, Operating System, Computer Architecture.  
 
