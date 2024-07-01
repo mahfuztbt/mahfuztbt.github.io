@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mahfuz"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "rony"
 description              : &Computer Science student"
@@ -35,13 +35,13 @@ author:
 
   facebook         : 'mahfuztbt'
   
-  instagram        : # mahfuztbt
+  instagram        : 'mahfuztbt'
  
-  linkedin         : # mahfuztbt
+  linkedin         : 'mahfuztbt'
  
-  twitter          : # mahfuztbt
+  twitter          : 'mahfuztbt'
 
-  weibo            : # mahfuztbt
+  weibo            : 'mahfuztbt'
   
 
 
