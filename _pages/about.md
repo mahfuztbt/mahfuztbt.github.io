@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am MD MAHFUZUR RAHMAN, a Master’s student in Computer Science and Technology at Xi'an Jiaotong University, supervised by Prof. Dr. Li Bo, with a strong focus on Artificial Intelligence, Machine Learning, Reinforcement Learning, and Natural Language Processing. I earned my bachelor’s degree in Software Engineering from Yunnan University under the supervision of Prof. Dr. Xie Cheng.
-My academic work has been driven by a passion for pushing the boundaries of AI and its applications. From exploring Recommender Systems to working on NLP projects, I have consistently sought to contribute to advancements in the field. My interest in NLP has also led me to dive deep into the evolution of language models and their applications in real-world scenarios.
-During my time as an Academic Tutor and Teaching Assistant at Xi'an Jiaotong University, I’ve had the privilege of mentoring fellow students, which has deepened my understanding of the subject matter and strengthened my commitment to research and education.
+I am MD MAHFUZUR RAHMAN, a Master’s student in Computer Science and Technology at Xi'an Jiaotong University, supervised by [Prof. Dr. Li Bo](https://gr.xjtu.edu.cn/web/boblee/2), with a strong focus on Artificial Intelligence, Machine Learning, Reinforcement Learning, and Natural Language Processing. I earned my bachelor’s degree in Software Engineering from Yunnan University under the supervision of [Prof. Dr. Xie Cheng](http://www.sei.ynu.edu.cn/info/1023/1166.htm).<br/>
+
+My academic work has been driven by a passion for pushing the boundaries of AI and its applications. From exploring Recommender Systems to working on NLP projects, I have consistently sought to contribute to advancements in the field. My interest in NLP has also led me to dive deep into the evolution of language models and their applications in real-world scenarios.<br/>
+
+During my time as an Academic Tutor and Teaching Assistant at Xi'an Jiaotong University, I’ve had the privilege of mentoring fellow students, which has deepened my understanding of the subject matter and strengthened my commitment to research and education.<br/>
+
 As I pursue a PhD, my goal is to engage in research that not only advances the state of the art in AI, ML, RL, and NLP but also addresses pressing challenges and creates tangible benefits for society. 
 
 
