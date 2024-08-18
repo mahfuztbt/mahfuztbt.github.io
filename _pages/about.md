@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Welcome to my personal Page"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I am MD MAHFUZUR RAHMAN Computer Science student at Xi'an Jiaotong University.
 
