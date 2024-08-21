@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download My [CV](https://drive.google.com/uc?export=download&id=1FNJ05SC1fAh9_kSXzD8fP3v-Gral2usR) 
 
 Education
 ======
