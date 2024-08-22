@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
-[View My CV]([./MD MAHFUZUR RAHMAN (2)-1.pdf](https://github.com/mahfuztbt/mahfuztbt.github.io/blob/master/MD%20MAHFUZUR%20RAHMAN%20(2)-1.pdf))
+Download My [CV](https://drive.google.com/uc?export=download&id=1FNJ05SC1fAh9_kSXzD8fP3v-Gral2usR)  Download [Chinese CV]()
 
 
 Education
