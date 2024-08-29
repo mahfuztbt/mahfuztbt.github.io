@@ -10,23 +10,18 @@ redirect_from:
 {% include base_path %}
 
 
-**Xi’an Jiaotong University, CHINA**  
-*ME in Computer Science and Technology at School of Electronics and Information.*  **Sept 2023 - Present**  
+[**Xi’an Jiaotong University, CHINA**](http://en.xjtu.edu.cn/)  
+*Master's in [**Computer Science and Technology**](http://www.cs.xjtu.edu.cn/) at Department of [Electronics and Information Engineering.](http://www.cs.xjtu.edu.cn/)*  **Sept 2023 - Present**  
 **CGPA:** 3.82 with 92 Average  
-**Relevant Coursework:** Machine Learning, Software Development, AI & Theory and Implementation of programming language, Security in Cyber Physical System, Statistical Signal processing and ML perspectives.  
-
-**Honor and Awards:**  
-- Chinese Government Scholarship (university) 2023-2025.
-- The Second International student Essay writing competition 2023, 3rd place.
+[**Relevant Coursework:**](https://github.com/mahfuztbt/XJTU) Machine Learning, Software Development, AI & Intelligent Robot, Theory and Implementation of Programming Language, Security in Cyber Physical System, Statistical Signal processing and ML perspectives, Digital Image Processing.
 
 
-**Yunnan University, CHINA**  *BE in Software Engineering at School of Software.*  **Sept 2018 - June 2022**  
+
+[**Yunnan University, CHINA**](https://www.ynu.edu.cn/) <br>
+*Bachelor in **Software Engineering** at [School of Software.](http://www.sei.ynu.edu.cn/)*  **Sept 2018 - June 2022**  
 **CGPA:** 3.44 with 89 Average  
-**Relevant Coursework:** Software Engineering, AI and ML, Python programming language, Data structure and Algorithm, Operating System, Computer Architecture.  
+[**Relevant Coursework:**](https://github.com/mahfuztbt/YNU) Software Engineering, ML and AI, Python programming language, OOP C++, OPP Java, C Programming Language, Data structure and Algorithm, Database System Design, Operating System, Computer Architecture, Advance Mathematics, Mathematical Foundation of Data Science. 
 
-**Honor and Awards:**  
-- National Green Computing Contest Series, Second place (2019), Third place (2020)
-- TAETEA Outstanding International Student Scholarship: Spring 2021, Fall 2021 & Spring 2022.
 
 
   
