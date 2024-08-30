@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal Page"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,11 +19,11 @@ As I pursue a PhD, my goal is to engage in research that not only advances the s
 ### I’m really into sports—
 - sometimes I practice **Boxing and Jujutsu**, play **Badminton** with my labmates, **snooker** with seniors, and **Tennis** with friends. Every sunday I go to **swim** on my own. **Rowing** is something I love to compete in, and on Sports Day, our department team won the championship and my team got **Third** place. Oh, I forgot to mention that I have completed two **Marathon** at XJTU hhhh and try to run regularly. For me I’d much rather be active than play computer games. (something totally opposite for a CS students 哈哈）
 
-### Also I do volunteer work a lot, aa lott as a Minister in Student Union I try to make student life easier by helping them. 
+### Also I do volunteer work a lot, aa lott， as a Minister in Student Union I try to make student life easier by helping them. 
 - I’ve put together a bunch of activities to promote culture, sports, and academics. 
 - Right now, I’m busy welcoming new students (graduate, undergrad, medical, and language) across four campuses. I really enjoy doing this-it keeps me busy and active.
 
-### If you want to see what I’m up to, check out my Instagram.
+### If you want to see what I’m up to, check out my [Instagram](https://www.instagram.com/zoey_chen17/).
 
 ## **You’re more than welcome to leave a suggestion or just say hi
 Email: **the_bengal_tiger@stu.xjtu.edu.cn** 
