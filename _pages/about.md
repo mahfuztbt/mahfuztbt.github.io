@@ -1,21 +1,21 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Master’s student in Computer Science and Technology at Xi'an Jiaotong University, supervised by [Prof. Dr. Li Bo](https://gr.xjtu.edu.cn/web/boblee/2), with a strong focus on Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing. I earned my bachelor’s degree in Software Engineering from Yunnan University under the supervision of [Prof. Dr. Xie Cheng](http://www.sei.ynu.edu.cn/info/1023/1166.htm).<br/>
+I am currently pursuing a Master's degree in Computer Science and Technology at Xi'an Jiaotong University, under the supervision of [Prof. Dr. Li Bo](https://gr.xjtu.edu.cn/web/boblee/2). My academic focus centers on Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing. I previously earned my Bachelor's degree in Software Engineering from Yunnan University, where I was mentored by  [Prof. Dr. Xie Cheng](http://www.sei.ynu.edu.cn/info/1023/1166.htm).<br/>
 
 My academic work has been driven by a passion for pushing the boundaries of AI and its applications. From exploring Recommender Systems to working on NLP projects, I have consistently sought to contribute to advancements in the field. My interest in NLP has also led me to dive deep into the evolution of language models and their applications in real-world scenarios.<br/>
 
-As I pursue a PhD, my goal is to engage in research that not only advances the state of the art in AI, ML, DL, and NLP but also addresses pressing challenges and creates tangible benefits for society. 
+As I plan to pursue a PhD, my goal is to engage in research that not only advances the state of the art in AI, ML, DL, and NLP but also addresses pressing challenges and creates tangible benefits for society. 
 
 
 
-### I’m a pretty chill person, enjoying my time in China. 
+### I’m a pretty chill person, enjoying my time in China. ENTJ-A
 ### I’m really into sports—
 - sometimes I practice **Boxing and Jujutsu**, play **Badminton** with my labmates, **snooker** with seniors, and **Tennis** with friends. Every sunday I go to **swim** on my own. **Rowing** is something I love to compete in, and on Sports Day, our department team won the championship and my team got **Third** place. Oh, I forgot to mention that I have completed two **Marathon** at XJTU hhhh and try to run regularly. For me I’d much rather be active than play computer games. (something totally opposite for a CS students 哈哈）
 
