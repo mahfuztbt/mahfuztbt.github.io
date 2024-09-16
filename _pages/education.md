@@ -11,7 +11,7 @@ redirect_from:
 
 
 [**Xi’an Jiaotong University, CHINA**](http://en.xjtu.edu.cn/)  
-*Master's in [**Computer Science and Technology**](http://www.cs.xjtu.edu.cn/) at Department of [Electronics and Information Engineering.](http://www.cs.xjtu.edu.cn/)* **From Sept 2023**  
+*Master's in [**Computer Science and Technology**](http://www.cs.xjtu.edu.cn/) at Department of [Electronics and Information Engineering.](http://eie.xjtu.edu.cn/en/index.htm)* **From Sept 2023**  
 **CGPA:** 3.82 with 92 Average  
 [**Relevant Coursework:**](https://github.com/mahfuztbt/XJTU) Machine Learning, Software Development, AI & Intelligent Robot, Theory and Implementation of Programming Language, Security in Cyber Physical System, Statistical Signal processing and ML perspectives, Digital Image Processing.
 
