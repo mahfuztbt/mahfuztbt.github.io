@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's degree in Computer Science and Technology at Xi'an Jiaotong University, under the supervision of [Prof. Dr. Li Bo](https://gr.xjtu.edu.cn/web/boblee/2). My academic focus centers on Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing. I previously earned my Bachelor's degree in Software Engineering from Yunnan University, where I was mentored by  [Prof. Dr. Xie Cheng](http://www.sei.ynu.edu.cn/info/1023/1166.htm).<br/>
+I am currently pursuing a **Master's** degree in Computer Science and Technology at Xi'an Jiaotong University, under the supervision of [Prof. Dr. Li Bo](https://gr.xjtu.edu.cn/web/boblee/2), where I am doing research on Precipitation Nowcasting. My academic focus centers on Artificial Intelligence and Deep Learning. I previously earned my Bachelor's degree in Software Engineering from Yunnan University, where I was mentored by  [Prof. Dr. Xie Cheng](http://www.sei.ynu.edu.cn/info/1023/1166.htm).<br/>
 
-My academic work has been driven by a passion for pushing the boundaries of AI and its applications. From exploring Recommender Systems to working on NLP projects, I have consistently sought to contribute to advancements in the field. My interest in NLP has also led me to dive deep into the evolution of language models and their applications in real-world scenarios.<br/>
-
-Beginning in September 2025, I will be pursuing a 'PhD in Intelligent Robotics' under the supervision of [Professor Zhang Xiaodong](https://gr.xjtu.edu.cn/en/web/amct).
+Beginning in September 2025, I will be pursuing a **PhD in Intelligent Robotics** under the supervision of [Professor Zhang Xiaodong](https://gr.xjtu.edu.cn/en/web/amct).
 
 
 
