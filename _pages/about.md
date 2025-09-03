@@ -11,7 +11,7 @@ I am currently pursuing a Master's degree in Computer Science and Technology at 
 
 My academic work has been driven by a passion for pushing the boundaries of AI and its applications. From exploring Recommender Systems to working on NLP projects, I have consistently sought to contribute to advancements in the field. My interest in NLP has also led me to dive deep into the evolution of language models and their applications in real-world scenarios.<br/>
 
-As I plan to pursue a PhD, my goal is to engage in research that not only advances the state of the art in AI, ML, DL, and NLP but also addresses pressing challenges and creates tangible benefits for society. 
+Beginning in September 2025, I will be pursuing a 'PhD in Intelligent Robotics' under the supervision of [Professor Zhang Xiaodong](https://gr.xjtu.edu.cn/en/web/amct).
 
 
 
